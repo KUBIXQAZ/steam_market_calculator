@@ -1,0 +1,5 @@
+﻿  steam market calculator by kubixqaz.cpp
+C:\Users\kubaj\OneDrive\Pulpit\steam market calculator by kubixqaz\steam market calculator by kubixqaz.cpp(19,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\kubaj\OneDrive\Pulpit\steam market calculator by kubixqaz\steam market calculator by kubixqaz.cpp(53,67): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kubaj\OneDrive\Pulpit\steam market calculator by kubixqaz\steam market calculator by kubixqaz.cpp(54,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  steam market calculator by kubixqaz.vcxproj -> C:\Users\kubaj\OneDrive\Pulpit\steam market calculator by kubixqaz\Debug\steam market calculator by kubixqaz.exe
