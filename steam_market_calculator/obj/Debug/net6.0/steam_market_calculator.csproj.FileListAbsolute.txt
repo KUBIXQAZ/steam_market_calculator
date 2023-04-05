@@ -1,0 +1,15 @@
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\obj\Debug\net6.0\steam_market_calculator.csproj.AssemblyReference.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\obj\Debug\net6.0\steam_market_calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\obj\Debug\net6.0\steam_market_calculator.AssemblyInfoInputs.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\obj\Debug\net6.0\steam_market_calculator.AssemblyInfo.cs
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\obj\Debug\net6.0\steam_market_calculator.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\bin\Debug\net6.0\steam_market_calculator.exe
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\bin\Debug\net6.0\steam_market_calculator.deps.json
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\bin\Debug\net6.0\steam_market_calculator.runtimeconfig.json
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\bin\Debug\net6.0\steam_market_calculator.dll
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\bin\Debug\net6.0\steam_market_calculator.pdb
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\obj\Debug\net6.0\steam_market_calculator.dll
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\obj\Debug\net6.0\refint\steam_market_calculator.dll
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\obj\Debug\net6.0\steam_market_calculator.pdb
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\obj\Debug\net6.0\steam_market_calculator.genruntimeconfig.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\steam_market_calculator\steam_market_calculator\obj\Debug\net6.0\ref\steam_market_calculator.dll

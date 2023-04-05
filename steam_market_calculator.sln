@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "steam_market_calculator", "steam_market_calculator\steam_market_calculator.csproj", "{3703B1B8-ADF5-4F75-B859-90EE2D50D5CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3703B1B8-ADF5-4F75-B859-90EE2D50D5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3703B1B8-ADF5-4F75-B859-90EE2D50D5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3703B1B8-ADF5-4F75-B859-90EE2D50D5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3703B1B8-ADF5-4F75-B859-90EE2D50D5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A044C065-C9C3-42C7-AFF3-F8E1FE7F041A}
+	EndGlobalSection
+EndGlobal
